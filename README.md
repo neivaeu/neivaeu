@@ -1,6 +1,3 @@
-## [ FULL REPOSITORY MAP ]
-
-> **My profile is a filesystem mapped across the fundamental and emerging disciplines of Computer Science.**
 
 <div align="center">
 
@@ -66,6 +63,11 @@
 # [ neiva // Root @ Computer Science ]
 
 > **Initializing mastery protocol...**
+
+## [ FULL REPOSITORY MAP ]
+
+> **My profile is a filesystem mapped across the fundamental and emerging disciplines of Computer Science.**
+
 
 <br/>
 <div align="center">
