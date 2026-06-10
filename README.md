@@ -1,15 +1,3 @@
-# [ neiva // Root @ Computer Science ]
-
-> **Initializing mastery protocol...**
-
-<br/>
-<div align="center">
-  <a href="https://42.fr">
-    <img src="https://img.shields.io/badge/42_School-Common_Core-00BABC?style=for-the-badge&logo=42&logoColor=white" alt="42 Badge" />
-  </a>
-</div>
-<br/>
-
 ## [ FULL REPOSITORY MAP ]
 
 > **My profile is a filesystem mapped across the fundamental and emerging disciplines of Computer Science.**
@@ -74,3 +62,15 @@
   <a href="#secure-comms"><img src="https://img.shields.io/github/last-commit/neivaeu/neivaeu?style=for-the-badge&logo=git&logoColor=white&label=SYSTEM_UPDATE&color=0D1117" alt="Last Update" /></a>
   <a href="#secure-comms"><img src="https://hits.sh/github.com/neivaeu/neivaeu.svg?style=for-the-badge&label=SYS_TRAFFIC&color=0D1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI4OCA4MGMtNjUuMiAwLTExOC44IDI5LjYtMTU5LjkgNjcuN0M4OS42IDE4My41IDYzIDIyNiA0OS40IDI1NmMxMy42IDMwIDQwLjIgNzIuNSA3OC42IDEwOC4zQzE2OS4yIDQwMi40IDIyMi44IDQzMiAyODggNDMyczExOC44LTI5LjYgMTU5LjktNjcuN0M0ODYuNCAzMjguNSA1MTMgMjg2IDUyNi42IDI1NmMtMTMuNi0zMC00MC4yLTcyLjUtNzguNi0xMDguM0M0MDYuOCAxMDkuNiAzNTMuMiA4MCAyODggODB6TTk1LjQgMTEyLjZDMTQyLjUgNjguOCAyMDcuMiAzMiAyODggMzJzMTQ1LjUgMzYuOCAxOTIuNiA4MC42YzQ2LjggNDMuNSA3OC4xIDk1LjQgOTMgMTMxLjFjMy4zIDcuOSAzLjMgMTYuNyAwIDI0LjZjLTE0LjkgMzUuNy00Ni4yODcuNy05MyAxMzEuMUM0MzMuNSA0NDMuMiAzNjguOCA0ODAgMjg4IDQ4MHMtMTQ1LjUtMzYuOC0xOTIuNi04MC42QzQ4LjYgMzU2IDE3LjMgMzA0LjEgMi40IDI2OC40Yy0zLjItNy45LTMuMi0xNi43IDAtMjQuNkMxNy4zIDIwOC4xIDQ4LjYgMTU2IDk1LjQgMTEyLjZ6TTI4OCAzMzZjNDQuMiAwIDgwLTM1LjggODAtODBzLTM1LjgtODAtODAtODBjLS43IDAtMS4zIDAtMiAwYzEuMyA1LjEgMiAxMC41IDIgMTZjMCAzNS4zLTI4LjcgNjQtNjQgNjRjLTUuNSAwLTEwLjktLjctMTYtMmMwIC43IDAgMS4zIDAgMmMwIDQ0LjIgMzUuOCA4MCA4MCA4MHptMC0yMDhhMTI4IDEyOCAwIDEgMSAwIDI1NiAxMjggMTI4IDAgMSAxIDAtMjU2eiIvPjwvc3ZnPg==" alt="View Counter" /></a>
 </div>
+
+# [ neiva // Root @ Computer Science ]
+
+> **Initializing mastery protocol...**
+
+<br/>
+<div align="center">
+  <a href="https://42.fr">
+    <img src="https://img.shields.io/badge/42_School-Common_Core-00BABC?style=for-the-badge&logo=42&logoColor=white" alt="42 Badge" />
+  </a>
+</div>
+<br/>
