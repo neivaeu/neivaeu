@@ -25,7 +25,7 @@
 
 </div>
 
-# [ neiva // Root @ Computer Science ]
+## [ neiva // Root @ Computer Science ]
 
 ## [ CURRENT SYSTEM STATUS ]
 
