@@ -1,4 +1,3 @@
-# [ neiva // Root @ Computer Science ]
 <div align="center">
 
 [![](https://img.shields.io/badge/COMPUTER%20SCIENCE%20DOMAIN-333333?style=for-the-badge)](#full-repository-map)[![](https://img.shields.io/badge/Core%20Focus%20%26%20Technologies-333333?style=for-the-badge&logoColor=white)](#full-repository-map)[![](https://img.shields.io/badge/STATUS-333333?style=for-the-badge)](#full-repository-map)<br>
@@ -25,6 +24,8 @@
 [![](https://img.shields.io/badge/00--DOTFILES-00BABC?style=for-the-badge)]([https://github.com/neivaeu/](https://github.com/neivaeu/computer-science/tree/main/)00-dotfiles)[![](https://img.shields.io/badge/Vim%2C%20Zsh%2C%20Bash%20Automation%2C%20Dev%20Environment-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/ACTIVE-00BABC?style=for-the-badge)](#full-repository-map)<br>
 
 </div>
+
+# [ neiva // Root @ Computer Science ]
 
 ## [ CURRENT SYSTEM STATUS ]
 
