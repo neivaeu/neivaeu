@@ -1,4 +1,4 @@
-
+# [ neiva // Root @ Computer Science ]
 <div align="center">
 
 [![](https://img.shields.io/badge/COMPUTER%20SCIENCE%20DOMAIN-333333?style=for-the-badge)](#full-repository-map)[![](https://img.shields.io/badge/Core%20Focus%20%26%20Technologies-333333?style=for-the-badge&logoColor=white)](#full-repository-map)[![](https://img.shields.io/badge/STATUS-333333?style=for-the-badge)](#full-repository-map)<br>
@@ -22,14 +22,9 @@
 [![](https://img.shields.io/badge/17--COMPUTATIONAL--SCIENCE-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/17-computational-science)[![](https://img.shields.io/badge/Simulation%2C%20Numerical%20Analysis%2C%20Bioinformatics%2C%20HPC-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/BUILDING-00BABC?style=for-the-badge)](#full-repository-map)<br>
 [![](https://img.shields.io/badge/18--QUANTUM--COMPUTING-5C5C5C?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/18-quantum-computing)[![](https://img.shields.io/badge/Qubits%2C%20Grover%2FShor%2C%20Post--Quantum%20Crypto%2C%20Qiskit-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/QUEUED-5C5C5C?style=for-the-badge)](#full-repository-map)<br>
 [![](https://img.shields.io/badge/19--EMERGING--TECHNOLOGIES-5C5C5C?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/19-emerging-technologies)[![](https://img.shields.io/badge/Blockchain%2C%20Neuromorphic%2C%20Brain--Computer%20Interfaces-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/QUEUED-5C5C5C?style=for-the-badge)](#full-repository-map)<br>
-[![](https://img.shields.io/badge/99--SANDBOX--AND--CHAOS-00BABC?style=for-the-badge)](https://github.com/neivaeu/99-sandbox-and-chaos)[![](https://img.shields.io/badge/Unstructured%20Experiments%2C%20Rapid%20PoCs%2C%20Chaos%20Testing-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/BUILDING-00BABC?style=for-the-badge)](#full-repository-map)<br>
 [![](https://img.shields.io/badge/00--DOTFILES-00BABC?style=for-the-badge)]([https://github.com/neivaeu/](https://github.com/neivaeu/computer-science/tree/main/)00-dotfiles)[![](https://img.shields.io/badge/Vim%2C%20Zsh%2C%20Bash%20Automation%2C%20Dev%20Environment-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/ACTIVE-00BABC?style=for-the-badge)](#full-repository-map)<br>
 
 </div>
-
-# [ neiva // Root @ Computer Science ]
-
-> **Initializing mastery protocol...**
 
 ## [ CURRENT SYSTEM STATUS ]
 
