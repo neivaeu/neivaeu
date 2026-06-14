@@ -1,6 +1,6 @@
 <div align="center">
 
-[![](https://img.shields.io/badge/COMPUTER%20SCIENCE%20DOMAIN-333333?style=for-the-badge)](#full-repository-map)[![](https://img.shields.io/badge/Core%20Focus%20%26%20Technologies-333333?style=for-the-badge&logoColor=white)](#full-repository-map)[![](https://img.shields.io/badge/STATUS-333333?style=for-the-badge)](#full-repository-map)<br>
+[![](https://img.shields.io/badge/COMPUTER%20SCIENCE%20DOMAIN-333333?style=for-the-badge)](#full-repository-map)[![](https://img.shields.io/badge/Core%20Focus%20%26%20Technologies-333333?style=for-the-badge&logoColor=white)](#full-repository-map)[![](https://img.shields.io/badge/STATUS-333333?style=for-the-badge)](#full-repository-map)[![](https://img.shields.io/badge/CURRICULUM-FF3300?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/99-curriculum)<br>
 
 [![](https://img.shields.io/badge/00--DOTFILES-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/00-dotfiles)[![](https://img.shields.io/badge/Vim%2C%20Zsh%2C%20Bash%20Automation%2C%20Dev%20Environment-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/ACTIVE-00BABC?style=for-the-badge)](#full-repository-map)<br>
 [![](https://img.shields.io/badge/01--THEORETICAL--COMPUTER--SCIENCE-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/01-theoretical-computer-science)[![](https://img.shields.io/badge/Automata%2C%20Turing%20Machines%2C%20Complexity%2C%20Logic-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/BUILDING-00BABC?style=for-the-badge)](#full-repository-map)<br>
@@ -528,12 +528,9 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/neivaeu">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-00BABC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://neiva.pt">
-  <img src="https://img.shields.io/badge/Web-neiva.pt-00BABC?style=for-the-badge&logo=torproject&logoColor=white" alt="Website" />
-</a>
+<a href="https://linkedin.com/in/neivaeu"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-00BABC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://neiva.pt"><img src="https://img.shields.io/badge/Web-neiva.pt-00BABC?style=for-the-badge&logo=torproject&logoColor=white" alt="Website" /></a>
+<a href="https://github.com/neivaeu/computer-science/tree/main/99-curriculum"><img src="https://img.shields.io/badge/Curriculum-curriculum-FF3300?style=for-the-badge&logo=github&logoColor=white" alt="Curriculum" /></a>
 
 </div>
 
