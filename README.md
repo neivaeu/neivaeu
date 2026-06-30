@@ -1,17 +1,12 @@
-<div align="right">
-
-[![HEADER](https://img.shields.io/badge/HEADER-FF4500?style=for-the-badge&logo=42&logoColor=white)](#full-repository-map)
-[![VIM](https://img.shields.io/badge/VIM-00CED1?style=for-the-badge&logo=vim&logoColor=white)](link)
-[![VSCODE](https://custom-icon-badges.demolab.com/badge/VSCODE-00CED1?style=for-the-badge&logo=vsc&logoColor=white)](link)
-
-</div>
-
 <div align="center">
 <!--
 [![](https://img.shields.io/badge/COMPUTER%20SCIENCE%20DOMAIN-333333?style=for-the-badge)](#full-repository-map)[![](https://img.shields.io/badge/Core%20Focus%20%26%20Technologies-333333?style=for-the-badge&logoColor=white)](#full-repository-map)[![](https://img.shields.io/badge/STATUS-333333?style=for-the-badge)](#full-repository-map)<br>
 -->
 
-[![](https://img.shields.io/badge/00--DOTFILES-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/00-dotfiles)[![](https://img.shields.io/badge/Vim%2C%20Zsh%2C%20Bash%20Automation%2C%20Dev%20Environment-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/ACTIVE-00BABC?style=for-the-badge)](#full-repository-map)<br>
+[![](https://img.shields.io/badge/00--DOTFILES-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/00-dotfiles)[![](https://img.shields.io/badge/Vim%2C%20Zsh%2C%20Bash%20Automation%2C%20Dev%20Environment-5C5C5C?style=flat-square)](#full-repository-map)
+[![42](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=42&logoColor=white)](#)[![HEADER](https://img.shields.io/badge/HEADER-FF4500?style=for-the-badge)](#)[![VIM](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=vim&logoColor=white)](#full-repository-map)
+[![42](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=42&logoColor=white)](#)[![HEADER](https://img.shields.io/badge/HEADER-FF4500?style=for-the-badge)](#)[![VSCODE](https://custom-icon-badges.demolab.com/badge/-FF4500?style=for-the-badge&logo=vsc&logoColor=white)](#full-repository-map)
+<br>
 [![](https://img.shields.io/badge/01--THEORETICAL--COMPUTER--SCIENCE-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/01-theoretical-computer-science)[![](https://img.shields.io/badge/Automata%2C%20Turing%20Machines%2C%20Complexity%2C%20Logic-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/BUILDING-00BABC?style=for-the-badge)](#full-repository-map)<br>
 [![](https://img.shields.io/badge/02--ALGORITHMS--DATA--STRUCTURES-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/02-algorithms-data-structures)[![](https://img.shields.io/badge/Big--O%2C%20Sorting%2C%20Graphs%2C%20Trees%2C%20Dynamic%20Programming-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/BUILDING-00BABC?style=for-the-badge)](#full-repository-map)<br>
 [![](https://img.shields.io/badge/03--PROGRAMMING--LANGUAGES-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/03-programming-languages)[![](https://img.shields.io/badge/C%2C%20C%2B%2B%2C%20Assembly%20x86%2FARM%2C%20Rust%2C%20Python%2C%20Bash-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/BUILDING-00BABC?style=for-the-badge)](#full-repository-map)<br>
