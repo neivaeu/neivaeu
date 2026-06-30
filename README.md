@@ -23,9 +23,9 @@
 [![](https://img.shields.io/badge/Born2beroot-5C5C5C?style=flat-square&logo=42&logoColor=white)](#full-repository-map)
 <br>
 [![](https://img.shields.io/badge/07--COMPUTER--NETWORKS-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/07-computer-networks)[![](https://img.shields.io/badge/Sockets%2C%20TCP%2FIP%2C%20Routing%2C%20Protocols%2C%20Web%20Servers-5C5C5C?style=flat-square)](#full-repository-map)
-[![](https://img.shields.io/badge/ft__irc-00BABC?style=flat-square&logo=42&logoColor=white)](#full-repository-map)
+[![](https://img.shields.io/badge/ft__irc-5C5C5C?style=flat-square&logo=42&logoColor=white)](#full-repository-map)
 [![](https://img.shields.io/badge/minitalk-5C5C5C?style=flat-square&logo=42&logoColor=white)](#full-repository-map)
-[![](https://img.shields.io/badge/NetPractice-00BABC?style=flat-square&logo=42&logoColor=white)](#full-repository-map)
+[![](https://img.shields.io/badge/NetPractice-5C5C5C?style=flat-square&logo=42&logoColor=white)](#full-repository-map)
 <br>
 [![](https://img.shields.io/badge/08--CYBERSECURITY--CRYPTOGRAPHY-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/08-cybersecurity-cryptography)[![](https://img.shields.io/badge/Red%20Team%2C%20OPSEC%2C%20Binary%20Exploit%2C%20Reverse%20Eng.-5C5C5C?style=flat-square)](#full-repository-map)
 [![](https://img.shields.io/badge/snow--crash-00BABC?style=flat-square&logo=42&logoColor=white)](https://github.com/neivaeu/computer-science/tree/main/08-cybersecurity-cryptography/06-challenges/03-academic-assignments/42/snow-crash)
