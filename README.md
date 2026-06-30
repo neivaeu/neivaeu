@@ -4,8 +4,8 @@
 -->
 
 [![](https://img.shields.io/badge/00--DOTFILES-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/00-dotfiles)[![](https://img.shields.io/badge/Vim%2C%20Zsh%2C%20Bash%20Automation%2C%20Dev%20Environment-5C5C5C?style=flat-square)](#full-repository-map)
-[![42](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=42&logoColor=white)](#)[![HEADER](https://img.shields.io/badge/HEADER-FF4500?style=for-the-badge)](#)[![VIM](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=vim&logoColor=white)](#full-repository-map)
-[![42](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=42&logoColor=white)](#)[![HEADER](https://img.shields.io/badge/HEADER-FF4500?style=for-the-badge)](#)[![VSCODE](https://custom-icon-badges.demolab.com/badge/-FF4500?style=for-the-badge&logo=vsc&logoColor=white)](#full-repository-map)
+[![42](https://img.shields.io/badge/-FF4500?style=flat-square&logo=42&logoColor=white)](#)[![HEADER](https://img.shields.io/badge/HEADER-FF4500?style=flat-square)](#)[![VIM](https://img.shields.io/badge/-FF4500?style=flat-square&logo=vim&logoColor=white)](#full-repository-map)
+[![42](https://img.shields.io/badge/-FF4500?style=flat-square&logo=42&logoColor=white)](#)[![HEADER](https://img.shields.io/badge/HEADER-FF4500?style=flat-square)](#)[![VSCODE](https://custom-icon-badges.demolab.com/badge/-FF4500?style=flat-square&logo=vsc&logoColor=white)](#full-repository-map)
 <br>
 [![](https://img.shields.io/badge/01--THEORETICAL--COMPUTER--SCIENCE-00BABC?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/01-theoretical-computer-science)[![](https://img.shields.io/badge/Automata%2C%20Turing%20Machines%2C%20Complexity%2C%20Logic-5C5C5C?style=flat-square)](#full-repository-map)
 <br>
@@ -67,14 +67,7 @@
 
 ## [ neiva // Root @ Computer Science ]
 
-<br/>
-<div align="left">
-  <a href="https://42.fr">
-    <img src="https://img.shields.io/badge/42_School-Common_Core-00BABC?style=for-the-badge&logo=42&logoColor=white" alt="42 Badge" />
-  </a>
-</div>
-<br/>
-
+<!---
 <div align="center">
 
 [![](https://img.shields.io/badge/Project%20Name-333333?style=for-the-badge)](#full-repository-map)[![](https://img.shields.io/badge/Core%20Focus%20%26%20Technologies-333333?style=for-the-badge&logoColor=white)](#full-repository-map)[![](https://img.shields.io/badge/GRADE-333333?style=for-the-badge)](#full-repository-map)[![](https://img.shields.io/badge/STATUS-333333?style=for-the-badge)](#full-repository-map)<br>
@@ -548,6 +541,7 @@
 [![](https://img.shields.io/badge/Ftl__quantum-5C5C5C?style=for-the-badge)](https://github.com/neivaeu/computer-science/tree/main/18-quantum-computing/06-challenges/03-academic-assignments/42/Ftl_quantum)[![](https://img.shields.io/badge/Quantum%20Circuits%2C%20Qubit%20Superposition%2C%20Quantum%20Gates%2C%20Qiskit%20Simulations-5C5C5C?style=flat-square)](#full-repository-map)[![](https://img.shields.io/badge/N%2FA-5C5C5C?style=for-the-badge)](#full-repository-map)[![](https://img.shields.io/badge/QUEUED-5C5C5C?style=for-the-badge)](#full-repository-map)<br>
 
 </div>
+--->
 
 ## [ CURRENT SYSTEM STATUS ]
 
